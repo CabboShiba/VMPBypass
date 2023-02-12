@@ -10,7 +10,7 @@ namespace VMPBypass.Bypass
     internal class MarshalHook
     {
         [HarmonyPatch(typeof(System.Runtime.InteropServices.Marshal), nameof(System.Runtime.InteropServices.Marshal.AllocHGlobal), new[] { typeof(int) })]
-        class FixEnvironmentExit
+        class MarshalHook
         {
             [STAThread]
             static bool Prefix(int cb)
