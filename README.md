@@ -1,5 +1,15 @@
 # VMPBypass
 
+**READ THIS**: https://github.com/CabboShiba/Final-Goodbye
+
+**READ THIS**: https://github.com/CabboShiba/Final-Goodbye
+
+**READ THIS**: https://github.com/CabboShiba/Final-Goodbye
+
+**READ THIS**: https://github.com/CabboShiba/Final-Goodbye
+
+**READ THIS**: https://github.com/CabboShiba/Final-Goodbye
+
 This tool will allow you to bypass VMProtect .NET AntiDebugger. Made by Cabbo.
 
 # How it works
